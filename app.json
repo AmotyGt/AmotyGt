@@ -30,7 +30,7 @@
         },
        "HEROKU_API_KEY": {
             "description": "For updating bot and setting vars remotely",
-            "required": true,
+            "required": false,
             "value":""
         },
         "HEROKU_APP_NAME": {
